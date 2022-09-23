@@ -3,3 +3,8 @@ ls - list the file
 mkdir - to create a folder
 touch - to create a file in a folder
 cd - to change the direction and go inside that folder
+git status - to show the changes in the folder
+git clone - to clone and copy the file
+git add - to track the file
+git commit - to write a message
+git push - to push the file to the git repository
